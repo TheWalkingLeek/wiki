@@ -1,0 +1,1 @@
+* [rb_rails_activerecord_relations_belongs_to](rb_rails_activerecord_relations_belongs_to.md)

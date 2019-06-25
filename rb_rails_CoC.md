@@ -1,0 +1,1 @@
+Convention over Configuration is used for strict naming in rails. This allows to prioritize actually coding rather than naming. Though the naming can be customized, it's pretty annoying to do and not required/recommended. One of the biggest parts in rails especially is the pluralizing.

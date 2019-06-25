@@ -1,0 +1,1 @@
+* [js_syntax_functions](js_syntax_functions.md)

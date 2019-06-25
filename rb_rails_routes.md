@@ -1,0 +1,1 @@
+* [rb_rails_routes_collection](rb_rails_routes_collection.md)

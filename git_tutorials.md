@@ -1,0 +1,3 @@
+* [git_tutorial_merge_branches_with_conflict](git_tutorial_merge_branches_with_conflict.md)
+* [git_tutorial_prepare_for_pull_request](git_tutorial_prepare_for_pull_request.md)
+* [git_tutorials_merge_branch_with_cli](git_tutorials_merge_branch_with_cli.md)

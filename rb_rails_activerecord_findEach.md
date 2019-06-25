@@ -1,0 +1,1 @@
+Der Unterschied zwischen einem find_each und einem all.each ist, dass bei einem all.each alle Records in die Memory gespeichert werden. Sind dies viele, könnte das also die Memory füllen. Das find_each geht da sehr gestaffelt durch und eignet sich daher auch vorallem besser für Migrationen
