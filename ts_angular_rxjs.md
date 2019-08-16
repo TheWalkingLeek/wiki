@@ -1,4 +1,4 @@
-RxJS: some useful resources
+# RxJS: some useful resources
 
 When it comes to learn and work with RxJS I consider these resources and tools as helpful:
 Resources and tools
@@ -22,6 +22,12 @@ Test your observables with marbles.
 https://www.npmjs.com/package/rxjs-marbles
 Learning
 
-· Introduction to reactive programming (by Andre Staltz)
+- Introduction to reactive programming (by Andre Staltz)
 
-· Learn RxJS
+- Learn RxJS
+
+## Generally
+
+Best case would be to delegate the Observer as far down as possible.
+
+Just add the RxJS operations on it that you need and give it further down for it to be resolved only in the end
