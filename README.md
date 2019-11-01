@@ -1,3 +1,4 @@
+- [bash](bash.md)
 - [rb](rb.md)
 - [vim](vim.md)
 - [git](git.md)
