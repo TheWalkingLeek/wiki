@@ -1,3 +1,3 @@
-# Bash Utility
+# Bash Agility
 
 ![blabla](assets/bashutil.jpg)
