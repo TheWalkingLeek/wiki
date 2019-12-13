@@ -8,5 +8,6 @@
 - [keycloak](keycloak.md)
 - [openshift](openshift.md)
 - [rb](rb.md)
+- [rust](rust.md)
 - [ts](ts.md)
 - [vim](vim.md)
